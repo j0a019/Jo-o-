@@ -1,12 +1,8 @@
-body {
-background-color: #DA2323;
+.cabacalho {
+    background-color: #424E61;
+    color: white;
 }
-<title>Document</title>
-<link rel=”stylesheet” href=”style.css”>
-<h1>Vai ser uma imagem aqui</h1>
-<ul>
-</ul>
-<ul>
-<li>Estudante</li>
-<li>Escola</li>
-</ul>
+
+.cabecalho-imagem{
+    width: 20%;
+}
